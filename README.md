@@ -27,10 +27,10 @@ Using the `datasets/Heart.csv` dataset (credit: ISLR), you will build a binary c
 1. Split the data into an 80/20 train/test split. Use **42** for your random seed so we can have consistent scores across the board.
 2. Paste your best accuracy score from the test set below
 
-**Random Forest Classifer Score = 0.8222222222222222**
+**Logistic Regression Classifier Score = 0.8222222222222222**
 
 ## Publish your notebook
 You're going to publish your notebook rather than submitting it in this rep. In DataBricks, select File > Publish and paste your URL below:
 
-**https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7168680479824748/3234985226761943/2360503017676331/latest.htmlL**
+** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7168680479824748/1844401948928368/2360503017676331/latest.htmlL **
 
