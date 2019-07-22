@@ -32,5 +32,5 @@ Using the `datasets/Heart.csv` dataset (credit: ISLR), you will build a binary c
 ## Publish your notebook
 You're going to publish your notebook rather than submitting it in this rep. In DataBricks, select File > Publish and paste your URL below:
 
-** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7168680479824748/1844401948928368/2360503017676331/latest.htmlL **
+** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7168680479824748/1844401948928368/2360503017676331/latest.html **
 
